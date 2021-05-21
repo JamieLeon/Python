@@ -1,0 +1,6 @@
+
+[:platform_system=="Darwin"]
+pyobjc
+
+[:platform_system=="Windows"]
+blesonwin

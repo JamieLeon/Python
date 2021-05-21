@@ -1,0 +1,7 @@
+rx<3
+
+[:platform_system == "Linux"]
+ptyprocess
+
+[:python_version < "3.3"]
+futures
